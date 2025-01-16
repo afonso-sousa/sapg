@@ -1,0 +1,13 @@
+### Python ###
+__pycache__/
+
+### VS Code ###
+.vscode/*
+
+### Local ###
+output/
+raw-data/
+processed-data/
+data_preprocessing/model_parse_xfm_bart_large-v0_1_0/
+
+to_remove.py
